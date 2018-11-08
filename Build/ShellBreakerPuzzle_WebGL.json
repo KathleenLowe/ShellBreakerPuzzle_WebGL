@@ -1,6 +1,6 @@
 {
 "companyName": "LowFlowStudio",
-"productName": "ShellBreakerPuzzleV7",
+"productName": "ShellBreakerPuzzleV8",
 "dataUrl": "ShellBreakerPuzzle_WebGL.data.unityweb",
 "wasmCodeUrl": "ShellBreakerPuzzle_WebGL.wasm.code.unityweb",
 "wasmFrameworkUrl": "ShellBreakerPuzzle_WebGL.wasm.framework.unityweb",
